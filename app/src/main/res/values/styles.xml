@@ -8,4 +8,20 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="BtnTapHereStyle" parent="Base.Widget.AppCompat.Button">
+        <item name="android:background">@drawable/btn_tap_here_am</item>
+        <item name="android:textColor">@drawable/btn_tap_here_text_color</item>
+        <item name="android:textSize">@dimen/btn_text_size</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginLeft">@dimen/btn_tap_here_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/btn_tap_here_horizontal_margin</item>
+        <item name="android:layout_marginTop">@dimen/btn_tap_here_vertical_margin</item>
+        <item name="android:layout_marginBottom">@dimen/btn_tap_here_vertical_margin</item>
+    </style>
+
+    <style name="EtFieldAM" parent="Base.Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/et_field_states_am</item>
+        <item name="android:textColorHint">@drawable/et_field_hint_color</item>
+    </style>
+
 </resources>

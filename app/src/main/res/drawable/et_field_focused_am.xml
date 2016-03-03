@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient android:type="radial"
+        android:gradientRadius="40dp"
+        android:centerX="80%"
+        android:startColor="@color/et_field_orange"
+        android:endColor="@color/et_field_yellow"/>
+    <stroke android:width="3dp"
+        android:dashGap="5dp"
+        android:dashWidth="2dp"
+        android:color="@color/et_field_orange"/>
+    <padding android:bottom="@dimen/item_padding_ma"
+        android:top="@dimen/item_padding_ma"
+        android:left="@dimen/item_padding_ma"
+        android:right="@dimen/item_padding_ma" />
+</shape>

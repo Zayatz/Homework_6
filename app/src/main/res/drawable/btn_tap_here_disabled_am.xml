@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient android:startColor="@color/btn_tap_here_disabled_dark"
+        android:endColor="@color/btn_tap_here_white"
+        android:gradientRadius="100dp"
+        android:angle="90"/>
+    <corners android:radius="4dp"/>
+    <stroke android:color="@color/btn_tap_here_disabled"
+        android:width="3dp"/>
+    <padding android:bottom="@dimen/btn_tap_here_vertical_padding"
+        android:top="@dimen/btn_tap_here_vertical_padding"
+        android:left="@dimen/item_padding_ma"
+        android:right="@dimen/item_padding_ma" />
+</shape>

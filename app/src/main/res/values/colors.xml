@@ -3,4 +3,22 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="tv_hello_text">#ffe1b5</color>
+    <color name="et_field_orange">#e7753c</color>
+    <color name="et_field_yellow">#f2da23</color>
+    <color name="et_field_disabled_dark_grey">#b4abab</color>
+    <color name="et_field_disabled_grey">#dcd7d7</color>
+    <color name="et_field_hint_color">#7e3636</color>
+    <color name="et_field_hint_color_disabled">#948e8e</color>
+    <color name="view_triangle_background">#f5f196</color>
+    <color name="view_triangle_triangle">#5eab62</color>
+    <color name="view_triangle_pressed">#f0f5e9</color>
+    <color name="btn_tap_here_white">#ffffff</color>
+    <color name="btn_tap_here_blue">#b3d5f5</color>
+    <color name="btn_tap_here_dark_blue">#8ec6fc</color>
+    <color name="btn_tap_here_light_blue">#aff7f9</color>
+    <color name="btn_tap_here_disabled">#bdc3cc</color>
+    <color name="btn_tap_here_disabled_dark">#b8bbbe</color>
+    <color name="btn_tap_here_focused_blue">#739ff2</color>
+    <color name="btn_tap_here_default_blue">#a2bdec</color>
 </resources>

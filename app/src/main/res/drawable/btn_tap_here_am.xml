@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true"
+        android:state_enabled="true"
+        android:drawable="@drawable/btn_tap_here_pressed_am" />
+    <item
+        android:state_focused="true"
+        android:state_enabled="true"
+        android:drawable="@drawable/btn_tap_here_focused_am" />
+    <item
+        android:state_enabled="true"
+        android:drawable="@drawable/btn_tap_here_default_am" />
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/btn_tap_here_disabled_am" />
+</selector>
